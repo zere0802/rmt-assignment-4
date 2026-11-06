@@ -1,0 +1,9 @@
+Local verification in a fresh virtual environment
+2026-11-06 20:38:56 +0500
+15.7.2
+arm64
+Python 3.12.1
+101/120 fully correct; 344/360 checkpoint points
+Five CSV tables verified.
+Two SVG charts written to reproduced/figures
+Both SVG files matched the reference outputs.

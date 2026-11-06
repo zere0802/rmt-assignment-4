@@ -1,0 +1,6 @@
+code,category,count,percent
+API,API or configuration detail,7,36.8
+REL,Release or platform boundary,5,26.3
+ADD,Added claim error,5,26.3
+OMIT,Required detail omitted,1,5.3
+TYPE,Type precision,1,5.3

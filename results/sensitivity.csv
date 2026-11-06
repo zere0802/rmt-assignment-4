@@ -1,0 +1,17 @@
+condition,group,n,strict_correct,checkpoint_only_correct,strict_percent,checkpoint_only_percent
+GPT-6 Luna,established,20,20,20,100.0,100.0
+GPT-6 Luna,recent,20,15,15,75.0,75.0
+GPT-6 Luna,overall,40,35,35,87.5,87.5
+GPT-6 Luna,established-minus-recent (pp),,,,25.0,25.0
+Sonnet 5.5,established,20,19,20,95.0,100.0
+Sonnet 5.5,recent,20,17,19,85.0,95.0
+Sonnet 5.5,overall,40,36,39,90.0,97.5
+Sonnet 5.5,established-minus-recent (pp),,,,10.0,5.0
+Gemini 3.8 Flash,established,20,18,19,90.0,95.0
+Gemini 3.8 Flash,recent,20,12,13,60.0,65.0
+Gemini 3.8 Flash,overall,40,30,32,75.0,80.0
+Gemini 3.8 Flash,established-minus-recent (pp),,,,30.0,30.0
+All conditions,established,60,57,59,95.0,98.3
+All conditions,recent,60,44,47,73.3,78.3
+All conditions,overall,120,101,106,84.2,88.3
+All conditions,established-minus-recent (pp),,,,21.7,20.0

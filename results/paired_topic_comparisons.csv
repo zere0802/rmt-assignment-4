@@ -1,0 +1,4 @@
+condition,pairs,established_only,recent_only,gap_pp,ci_low_pp,ci_high_pp,raw_p,holm_p
+GPT-6 Luna,20,5,0,25.0,10.0,45.0,0.0312,0.0938
+Sonnet 5.5,20,2,0,10.0,0.0,25.0,0.2500,0.2500
+Gemini 3.8 Flash,20,7,1,30.0,5.0,55.0,0.0352,0.0938

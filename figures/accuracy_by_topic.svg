@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 402" width="780" height="402" role="img"><title>Fully correct answers by topic group</title>
+<rect width="780" height="402" fill="white"/>
+<g font-family="Arial, sans-serif" fill="#192b40">
+<text x="32" y="38" text-anchor="start" font-size="23" font-weight="700">Fully correct answers by topic group</text>
+<text x="32" y="68" text-anchor="start" font-size="14" font-weight="400">Percent fully correct. Each bar represents 20 answers.</text>
+<rect x="515" y="78" width="16" height="16" fill="#244e78" rx="2"/>
+<text x="538" y="91" text-anchor="start" font-size="14" font-weight="400">Established</text>
+<rect x="630" y="78" width="16" height="16" fill="#057b72" rx="2"/>
+<text x="653" y="91" text-anchor="start" font-size="14" font-weight="400">Recent</text>
+<path d="M 80 345.0 H 745" stroke="#d9e1e9"/>
+<text x="69" y="349.0" text-anchor="end" font-size="13" font-weight="400">0%</text>
+<path d="M 80 301.0 H 745" stroke="#d9e1e9"/>
+<text x="69" y="305.0" text-anchor="end" font-size="13" font-weight="400">20%</text>
+<path d="M 80 257.0 H 745" stroke="#d9e1e9"/>
+<text x="69" y="261.0" text-anchor="end" font-size="13" font-weight="400">40%</text>
+<path d="M 80 213.0 H 745" stroke="#d9e1e9"/>
+<text x="69" y="217.0" text-anchor="end" font-size="13" font-weight="400">60%</text>
+<path d="M 80 169.0 H 745" stroke="#d9e1e9"/>
+<text x="69" y="173.0" text-anchor="end" font-size="13" font-weight="400">80%</text>
+<path d="M 80 124.99999999999997 H 745" stroke="#d9e1e9"/>
+<text x="69" y="128.99999999999997" text-anchor="end" font-size="13" font-weight="400">100%</text>
+<rect x="123" y="124.99999999999997" width="60" height="220.00000000000003" fill="#244e78" rx="2"/>
+<text x="153" y="116.99999999999997" text-anchor="middle" font-size="14" font-weight="700">100%</text>
+<rect x="187" y="180.0" width="60" height="165.0" fill="#057b72" rx="2"/>
+<text x="217" y="172.0" text-anchor="middle" font-size="14" font-weight="700">75%</text>
+<text x="185" y="373" text-anchor="middle" font-size="15" font-weight="700">GPT-6 Luna</text>
+<rect x="343" y="135.99999999999997" width="60" height="209.00000000000003" fill="#244e78" rx="2"/>
+<text x="373" y="127.99999999999997" text-anchor="middle" font-size="14" font-weight="700">95%</text>
+<rect x="407" y="157.99999999999997" width="60" height="187.00000000000003" fill="#057b72" rx="2"/>
+<text x="437" y="149.99999999999997" text-anchor="middle" font-size="14" font-weight="700">85%</text>
+<text x="405" y="373" text-anchor="middle" font-size="15" font-weight="700">Sonnet 5.5</text>
+<rect x="563" y="146.99999999999997" width="60" height="198.00000000000003" fill="#244e78" rx="2"/>
+<text x="593" y="138.99999999999997" text-anchor="middle" font-size="14" font-weight="700">90%</text>
+<rect x="627" y="213.0" width="60" height="132.0" fill="#057b72" rx="2"/>
+<text x="657" y="205.0" text-anchor="middle" font-size="14" font-weight="700">60%</text>
+<text x="625" y="373" text-anchor="middle" font-size="15" font-weight="700">Gemini 3.8 Flash</text>
+</g>
+</svg>
